@@ -82,8 +82,8 @@ async def start(bot: Client, cmd: Message):
                         InlineKeyboardButton("Close 🚪", callback_data="closeMessage")
                     ],
                     [
-                        InlineKeyboardButton("Bots Channel 🔥", url="https://t.me/Ninjauniverse"),
-                        InlineKeyboardButton("Support Group✨", url="https://t.me/Ninjauniversesupport")
+                        InlineKeyboardButton("Updates 🔥", url="https://t.me/+-hRATLI5hlBmYTNl"),
+                        InlineKeyboardButton("Support Group✨", url="https://t.me/NinjaUniverseChat")
                     ]
                 ]
             )
@@ -124,7 +124,7 @@ async def main(bot: Client, message: Message):
                 return
 
         if message.from_user.id in Config.BANNED_USERS:
-            await message.reply_text("Sorry, You are banned!\n\nContact [Support Group](https://t.me/TeleRoid14)",
+            await message.reply_text("Sorry, You are banned!\n\nContact [Support Group](https://t.me/NinjaUniverseChat)",
                                      disable_web_page_preview=True)
             return
 
@@ -152,7 +152,7 @@ async def main(bot: Client, message: Message):
         try:
             forwarded_msg = await message.forward(Config.DB_CHANNEL)
             file_er_id = str(forwarded_msg.id)
-            share_link = f"https://t.me/{Config.BOT_USERNAME}?start=PredatorHackerzZ_{str_to_b64(file_er_id)}"
+            share_link = f"https://t.me/{Config.BOT_USERNAME}?start=Blackpink_{str_to_b64(file_er_id)}"
             CH_edit = await bot.edit_message_reply_markup(message.chat.id, message.id,
                                                           reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(
                                                               "Get Sharable Link", url=share_link)]]))
@@ -318,8 +318,8 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Network",
-                                             url="t.me/NinjaXverse")
+                        InlineKeyboardButton("Updates",
+                                             url="https://t.me/+-hRATLI5hlBmYTNl")
                     ],
                     [
                         InlineKeyboardButton("Go Home", callback_data="gotohome"),
@@ -362,8 +362,8 @@ async def button(bot: Client, cmd: CallbackQuery):
                         InlineKeyboardButton("Close 🚪", callback_data="closeMessage")
                     ],
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/NinjaXVersechat"),
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/NinjaXverse")
+                        InlineKeyboardButton("Support Group 🧩", url="https://t.me/NinjaUniverseChat"),
+                        InlineKeyboardButton("Updates 🔥", url="https://t.me/+-hRATLI5hlBmYTNl")
                     ]
                 ]
             )
@@ -401,7 +401,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 return
             except Exception:
                 await cmd.message.edit(
-                    text="Something went Wrong. Contact my [Support Group](https://t.me/ninjaXversw).",
+                    text="Something went Wrong. Contact my [Support Group](https://t.me/NinjaUniverseChat).",
                     disable_web_page_preview=True
                 )
                 return
@@ -411,8 +411,8 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/NinjaXversechat"),
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/NinjaXverse")
+                        InlineKeyboardButton("Support Group 🧩", url="https://t.me/NinjaUniverseChat"),
+                        InlineKeyboardButton("Updates 🔥", url="https://t.me/+-hRATLI5hlBmYTNl")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
