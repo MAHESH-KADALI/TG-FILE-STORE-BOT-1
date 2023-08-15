@@ -24,7 +24,7 @@ Send Me any Media or File.I can Work In Channel too Add Me to Channel with Edit 
 
 ╭────[ **🔅FɪʟᴇSᴛᴏʀᴇBᴏᴛ🔅**]────⍟
 │
-├🔸🤖 **My Name:** [chozi akamichi](https://t.me/{BOT_USERNAME})
+├🔸🤖 **My Name:** [Black Pink ✨i](https://t.me/{BOT_USERNAME})
 │
 ├🔸📝 **Language:** [𝐏𝐲𝐭𝐡𝐨𝐧𝟑](https://www.python.org)
 │
@@ -32,18 +32,18 @@ Send Me any Media or File.I can Work In Channel too Add Me to Channel with Edit 
 │
 ├🔹📡 **Hosted On:** [𝐇𝐞𝐫𝐨𝐤𝐮](https://heroku.com)
 │
-├🔸👨‍💻 **Developer:** [@Mxnitro](https://t.me/mxnitro) 
+├🔸👨‍💻 **Developer:** [@Gani_Blackpink](https://t.me/Gani_Blackpink) 
 │
-├🔹👥 **Bot Support:** [𝐒𝐮𝐩𝐩𝐨𝐫𝐭](https://t.me/ninjaXversechat)
+├🔹👥 **Bot Support:** [𝐒𝐮𝐩𝐩𝐨𝐫𝐭](https://t.me/NinjaUniverseChat)
 │
-├🔸🔔 **Bot Updates:** [𝐔𝐩𝐝𝐚𝐭𝐞𝐬](https://t.me/ninjaXverse)
+├🔸🔔 **Bot Updates:** [𝐔𝐩𝐝𝐚𝐭𝐞𝐬](https://t.me/+-hRATLI5hlBmYTNl)
 │
 ╰──────[ 😎 ]───────────⍟
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿:** [@Mxnitro](https://t.me/PredatorHackerzZ) 
+🧑🏻‍💻 **𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿:** [@Gani_Blackpink](https://t.me/Gani_Blackpink) 
 
-𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐢𝐬 𝐒𝐮𝐩𝐞𝐫 𝐍𝐨𝐨𝐛. 𝐉𝐮𝐬𝐭 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐟𝐫𝐨𝐦 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐃𝐨𝐜𝐬. 𝐀𝐧𝐝 𝐒𝐞𝐞𝐤𝐢𝐧𝐠 𝐇𝐞𝐥𝐩 𝐅𝐫𝐨𝐦 𝐏𝐫𝐨 𝐂𝐨𝐝𝐞𝐫𝐬\n**@TheTeleRoid**
+𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐢𝐬 𝐒𝐮𝐩𝐞𝐫 𝐍𝐨𝐨𝐛. 𝐉𝐮𝐬𝐭 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐟𝐫𝐨𝐦 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐃𝐨𝐜𝐬. 𝐀𝐧𝐝 𝐒𝐞𝐞𝐤𝐢𝐧𝐠 𝐇𝐞𝐥𝐩 𝐅𝐫𝐨𝐦 𝐏𝐫𝐨 𝐂𝐨𝐝𝐞𝐫𝐬\n**@NinjaUniverseChat**
 
 𝐈𝐟 𝐘𝐨𝐮 𝐰𝐚𝐧𝐭 𝐭𝐨 𝐃𝐨𝐧𝐚𝐭𝐞 𝐎𝐮𝐫 𝐇𝐚𝐫𝐝 𝐖𝐨𝐫𝐤. 𝐘𝐨𝐮 𝐂𝐚𝐧 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐓𝐡𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫. 
 
@@ -52,7 +52,7 @@ Send Me any Media or File.I can Work In Channel too Add Me to Channel with Edit 
 [**Donate Me**](t.me/mxnitro) (contact him ✨)
 """
 	HOME_TEXT = """
-Hello, i am chozi akamichi ✨ [{}](tg://user?id={})\n\nThis is a Permanent **chozi akamichiFileStore Bot**.
+Hello, i am Blackpink ✨ [{}](tg://user?id={})\n\nThis is a Permanent **blackpink FileStore Bot**.
 
 How to Use Bot & it's Benefits??
 
