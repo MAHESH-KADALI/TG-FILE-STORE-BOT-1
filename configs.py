@@ -52,13 +52,7 @@ Send Me any Media or File.I can Work In Channel too Add Me to Channel with Edit 
 [**Donate Me**](t.me/mxnitro) (contact him ✨)
 """
 	HOME_TEXT = """
-Hello, i am Blackpink ✨ [{}](tg://user?id={})\n\nThis is a Permanent **blackpink FileStore Bot**.
+Hello [{}](tg://user?id={})\n\n 
 
-How to Use Bot & it's Benefits??
-
-📢 Send me any File & It will be uploaded in My Database & You will Get the File Link.
-
-⚠️ Benefits: If you have a TeleGram Movie Channel or Any Copyright Channel, Then Its Useful for Daily Usage, You can Send Me Your File & I will Send Permanent Link to You & Channel will be Safe from **CopyRight Infringement** Issue. I support Channel Also You Can Check **About Bot**.
-
-❌ **PORNOGRAPHY CONTENTS😈** are strictly prohibited & get Permanent Ban.
+I can store private files in Specified Channel and other users can access it from special link. ✨🔥
 """
